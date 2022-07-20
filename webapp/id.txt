@@ -1,0 +1,46 @@
+Superuser :
+username : admin
+Password : admin123
+Mail : suryapreetd@gmail.com
+
+
+Restaurant :
+Domino's Pizza
+Restaurant UserName:	dominospizza
+Name:	Domino's Pizza
+info:	Delivery/carryout chain offering pizzas
+Location:	Ground Floor, SCO 13-15, Piccadily Rd, S
+Status:	Open
+Approved:	True
+Email:	dominospizza@gmail.com
+
+
+Subway
+Restaurant UserName:	subway
+Name:	Subway
+info:	Build your own Sandwiches & Salads
+Location:	S.C.F. 38, Inner Market, Sector 8, Chand
+Status:	Open
+Approved:	True
+Email:	subway@gmail.com
+
+
+
+Fauji Dhaba
+Restaurant UserName:	faujidhaba
+Name:	Fauji Dhaba
+info:	Serving Home-Made Food
+Location:	Sector 43, Chandigarh
+Status:	Open
+Approved:	True
+Email:	faujidhaba@gmail.com
+
+Customer :
+Test User
+User Name:	testuser1
+First Name:	Test
+Last Name:	User
+City:	Chandigarh
+Address:	Sector 43 , Chandigarh
+Email:	suryapreetd@gmail.com
+Phone Number:	8894558239
